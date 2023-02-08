@@ -1,9 +1,3 @@
-### Hi there 👋
-
-**Juansepo13/Juansepo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently looking for job ...
 - 🌱 I’m currently learning Machine Learning...
 - 👯 I’m looking to collaborate on Holberton School...
